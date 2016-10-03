@@ -1,3 +1,3 @@
 # NodeAzureDeployment
 
-This is a Node JS application host on Azure
+This is a Node JS application host on Azure.
